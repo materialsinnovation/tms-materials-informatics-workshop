@@ -71,16 +71,16 @@ See links.
 
 ## Marketing
 
-### Please list any groups of organizations that TMS might approach as
-    a means of highlighting your course (e.g. associations, companies,
-    journals/publications), and include appropriate contact
-    information if available.
+Please list any groups of organizations that TMS might approach as a
+means of highlighting your course (e.g. associations, companies,
+journals/publications), and include appropriate contact information if
+available.
 
-Materials Genome Initiative groups
+ * Materials Genome Initiative groups
 
-### Please list any social media groups (e.g. LinkedIn, etc.) that TMS
-    should explore as a means of advertising this event to an audience
-    that we may not otherwise have contact with. ?
+Please list any social media groups (e.g. LinkedIn, etc.) that TMS
+should explore as a means of advertising this event to an audience
+that we may not otherwise have contact with. ?
 
-### Please list any industry databases that TMS should explore as a
-    means of advertising this event.
+Please list any industry databases that TMS should explore as a means
+of advertising this event.
