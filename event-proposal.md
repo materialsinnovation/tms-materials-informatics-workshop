@@ -29,7 +29,7 @@ Targeted Audience: ?
 Is this course connected to a specific symposium or activity that is
 occurring in conjunction with MS&T 2015: ?
 
-## Couse Overview
+## Course Overview
 
 Microstructure informatics is an emerging suite of signal processing
 techniques, advance statistical tools and data science methods
