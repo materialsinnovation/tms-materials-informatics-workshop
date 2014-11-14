@@ -14,7 +14,7 @@ Names: [Daniel Wheeler][wheeler], [Surya Kalidindi][kalidindi], [Tony Fast][fast
 
 Title: Introduction to Materials Informatics with Open Source Tools.
 
-Sponsoring Division: ?
+Sponsoring Division: ???
 
 Suggested Format: Short Course
 
@@ -22,9 +22,9 @@ Suggested Duration: 1 day
 
 Suggested Instructors: as above
 
-Workshop Sponsoring Technical Division and Committee: ?
+Workshop Sponsoring Technical Division and Committee: ???
 
-Targeted Audience: ?
+Targeted Audience: ???
 
 Is this course connected to a specific symposium or activity that is
 occurring in conjunction with MS&T 2015: ?
@@ -60,7 +60,11 @@ large sets of parameters and material configurations.
 
 ## Topical Outline
 
+???
+
 ## Who should attend
+
+???
 
 ## Biography
 
@@ -77,10 +81,15 @@ journals/publications), and include appropriate contact information if
 available.
 
  * Materials Genome Initiative groups
-
+ * ???
+ 
 Please list any social media groups (e.g. LinkedIn, etc.) that TMS
 should explore as a means of advertising this event to an audience
 that we may not otherwise have contact with. ?
 
+ * ???
+
 Please list any industry databases that TMS should explore as a means
 of advertising this event.
+
+ * ???
