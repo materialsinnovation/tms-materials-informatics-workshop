@@ -24,7 +24,11 @@ Suggested Instructors: as above
 
 Workshop Sponsoring Technical Division and Committee: ???
 
-Targeted Audience: ???
+Targeted Audience: This course is designed for graduate students,
+post-docs, and researchers interested in learning how their research
+in materials science and engineering can benefit from the emerging
+tools and concepts in materials data analytics and
+cyberinfrastructure.
 
 Is this course connected to a specific symposium or activity that is
 occurring in conjunction with MS&T 2015: ?
@@ -64,7 +68,13 @@ large sets of parameters and material configurations.
 
 ## Who should attend
 
-???
+This course is designed for graduate students, post-docs, and
+researchers interested in learning how their research in materials
+science and engineering can benefit from the emerging tools and
+concepts in materials data analytics and
+cyberinfrastructure. Furthermore, those researchers interested
+scientific computing with Python in the realm of materials science
+will also derive benefit from the workshop.
 
 ## Biography
 
