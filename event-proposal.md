@@ -8,8 +8,6 @@ Names: [Daniel Wheeler][wheeler], [Surya Kalidindi][kalidindi], [Tony Fast][fast
 
 [kalidindi]: http://mined.gatech.edu/the-ga-tech-mined-research-group/ga-tech-mined-research-group-surya-kalidindi
 
-[fast]: http://mined.gatech.edu/the-ga-tech-mined-research-group/ga-tech-mined-research-group-tony-fast
-
 [brough]: http://mined.gatech.edu/the-ga-tech-mined-research-group/ga-tech-mined-research-group-david-brough
 
 Title: Introduction to Materials Informatics with Open Source Tools.
@@ -62,9 +60,9 @@ large sets of parameters and material configurations.
 
 [4]: http://www.pymks.org
 
-## Topical Outline
+## [Topical Outline](OUTLINE.md)
 
-???
+See the [outline](OUTLINE.md).
 
 ## Who should attend
 
@@ -80,8 +78,7 @@ will also derive benefit from the workshop.
 
 See links.
 
-[Daniel Wheeler][wheeler], [Surya Kalidindi][kalidindi],
-[Tony Fast][fast] and [David Brough][brough]
+[Daniel Wheeler][wheeler], [Surya Kalidindi][kalidindi] and [David Brough][brough]
 
 ## Marketing
 
