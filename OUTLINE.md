@@ -7,7 +7,7 @@ is required). Either way, we will try to have everything up on the web
 ready to go. If people want to set up the environment on their own
 laptops they can.
 
-Many of our example will come from this basic set of MKS examples.
+Many of our examples will come from the basic set of MKS examples.
 
 http://materialsinnovation.github.io/pymks/EXAMPLES.html
 
@@ -61,37 +61,37 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
 
  * PyMKS
 
-   * Step through a simple example (elasticity)
+  * Step through a simple example (elasticity)
 
-   * high level overview of PyMKS
+  * high level overview of PyMKS
 
-     * structure of objects
+   * structure of objects
 
-   * introduce the microsturcture generation tools   
-   
-   * introduce the data generation tools
+  * microsturcture generation tools   
+  
+  * data generation tools
 
-   * introduction to calibrating the model
+  * calibrating the model
 
-### In depth PyMKS (1 hour, wheeler)
+### In depth PyMKS (1 hour, Daniel)
 
  * The Cahn-hilliard example
 
  * Basis functions
 
- * Scaling the model
+ * Scaling the model.
 
- * Optimizing the model -- validation -- parameter optimization
+ * Optimizing the model -- validation -- parameter optimization.
 
- * How does the code work? Show the code.
+ * How does the code work? Demonstrate aspects of the code.
 
-### Spatial Statistics in PyMKS(1 hour, Brough)
+### Spatial Statistics in PyMKS (1 hour, David)
 
-### Putting it all together (1 hour, Wheeler and Brough)
+### Putting it all together (1 hour, Daniel and David)
 
- * An example that uses both MKS and statistics
+ * An example that uses both MKS and statistics.
 
- * Optimizing performance in Python
+ * Optimizing performance in Python.
 
  * An example on the web that uses PyMKS in real time using Javascript.
 
