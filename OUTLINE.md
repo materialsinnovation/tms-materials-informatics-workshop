@@ -19,7 +19,7 @@ http://materialsinnovation.github.io/pymks/EXAMPLES.html
 
  * should motivate everything from the mathematics, to the web etc.
 
- * slide on code of conduct (be friendly, very important to create good atmostphere)
+ * slide on code of conduct (be friendly, very important to create good atmosphere)
 
  * introduce Daniel and David
 
@@ -34,7 +34,7 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
 
   * Make sure everyone can log in
 
-  * Explain that those that prefer can use laptops  
+  * Explain that those that prefer can use laptops
 
  * Overview
 
@@ -52,12 +52,16 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
  * Numpy arrays
 
  * IPython notebook
- 
+
 ### Intro to PyMKS and machine learning (1 hour, David)
 
  * Intro to Scikit-learn
 
-  * independent example from PyMKS
+  * api, (fit, predict, transform)
+
+  * [PCA Example](http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html)
+
+  * [Linear Regression Example](http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html)
 
  * PyMKS
 
@@ -69,17 +73,25 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
 
    * structure of objects
 
-  * Microstructure generation tools   
-  
+  * Microstructure generation tools
+
   * data generation tools
 
-### Intro to basic statistics in Python and PyMKS (1 hour, David)
+### Homogenization Linkages using PyMKS (1 hour, David)
 
- * Please outline
+ * 2-point statistics
 
- * include elastic homogenization
+ * PyMKS 2-point statistics tools
 
-### In depth PyMKS (1 hour, Daniel)
+ * Dimensionality reduction of 2-point statistics
+
+ * Low dimensional structure property linkages
+
+ * Step though PCA and regression linkage example
+
+ * Dimensionality reduction and linkage options for Scikit-learn
+
+### Localization Linkages using PyMKS (1 hour, Daniel)
 
  * Step through elastic MKS
 
