@@ -2,13 +2,13 @@
 
 ## Info
 
-Names: [Daniel Wheeler][wheeler], [Surya Kalidindi][kalidindi], [Tony Fast][fast] and [David Brough][brough]
+Names: [Daniel Wheeler][wheeler], [Surya Kalidindi][kalidindi] and [David Brough][brough]
 
 [wheeler]: http://wd15.github.io/about.html
 
-[kalidindi]: http://mined.gatech.edu/the-ga-tech-mined-research-group/ga-tech-mined-research-group-surya-kalidindi
+[kalidindi]: http://www.me.gatech.edu/faculty/kalidindi
 
-[brough]: http://mined.gatech.edu/the-ga-tech-mined-research-group/ga-tech-mined-research-group-david-brough
+[brough]: http://davidbrough1.github.io
 
 Title: Introduction to Materials Informatics with Open Source Tools.
 
@@ -89,7 +89,7 @@ available.
 
  * Materials Genome Initiative groups
  * ???
- 
+
 Please list any social media groups (e.g. LinkedIn, etc.) that TMS
 should explore as a means of advertising this event to an audience
 that we may not otherwise have contact with. ?
