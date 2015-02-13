@@ -13,7 +13,7 @@ http://materialsinnovation.github.io/pymks/EXAMPLES.html
 
 ## Outline
 
-### Introduction to Materials Informatics (1 hour, Surya)
+### Introduction to Materials Informatics (0.5 hour, Surya)
 
  * should cover the entire domain
 
@@ -23,7 +23,7 @@ http://materialsinnovation.github.io/pymks/EXAMPLES.html
 
  * introduce Daniel and David
 
- * What is MKS?
+ * what is MKS?
 
 ### Introduction to Scientific Programming in Python (1 hour, Daniel)
 
@@ -61,33 +61,39 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
 
  * PyMKS
 
-  * Step through a simple example (elasticity)
+  * General overview
 
-  * high level overview of PyMKS
+  * Step through a simple example (statistics or MKS, very high level)
+
+  * high level overview of PyMKS -- what problem does it solve?
 
    * structure of objects
 
-  * microsturcture generation tools   
+  * Microstructure generation tools   
   
   * data generation tools
 
-  * calibrating the model
+### Intro to basic statistics in Python and PyMKS (1 hour, David)
+
+ * Please outline
+
+ * include elastic homogenization
 
 ### In depth PyMKS (1 hour, Daniel)
 
- * The Cahn-hilliard example
+ * Step through elastic MKS
 
- * Basis functions
+ * Overview of the Cahn-Hilliard example just to show basis functions
 
- * Scaling the model.
+ * Go back to elastic model show scaling
 
  * Optimizing the model -- validation -- parameter optimization.
 
  * How does the code work? Demonstrate aspects of the code.
 
-### Spatial Statistics in PyMKS (1 hour, David)
+### Putting it all together if there is time (1 hour, Daniel and David)
 
-### Putting it all together (1 hour, Daniel and David)
+ * Just show some cool stuff
 
  * An example that uses both MKS and statistics.
 
