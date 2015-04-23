@@ -78,6 +78,4 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
 
  * Step through [2D Elastic MKS Example](http://materialsinnovation.github.io/pymks/rst/elasticity_2D.html)
 
- * Go back to elastic model show scaling
-
  * Add new example
