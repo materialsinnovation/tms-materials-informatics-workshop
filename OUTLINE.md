@@ -13,7 +13,7 @@ http://materialsinnovation.github.io/pymks/EXAMPLES.html
 
 ## Outline
 
-### Introduction to Materials Informatics (0.5 hour, Surya)
+### Introduction to Materials Informatics (1:00 to 1:30, Surya)
 
  * should cover the entire domain
 
@@ -21,11 +21,11 @@ http://materialsinnovation.github.io/pymks/EXAMPLES.html
 
  * slide on code of conduct (be friendly, very important to create good atmosphere)
 
- * introduce Daniel and David
+ * introduce David, Yuksel, and Ahmet
 
  * what is MKS?
 
-### Introduction to Scientific Programming in Python (1 hour, Daniel)
+### Introduction to Python and PyMKS (1:30 to 2:30 hour, David)
 
 Some of this stuff might seem a little basic, but TMS is not going to
 be full of hacker types. I'll steal some of this from Software Carpentry.
@@ -34,34 +34,15 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
 
   * Make sure everyone can log in
 
-  * Explain that those that prefer can use laptops
-
- * Overview
+ * Python
 
   * Why Python
 
   * Opensource -- explain the license
 
- * A gentle introduction to Git/Github to example how our materials
-   informatics codes are developed.
+  * Python data structures
 
- * Python containers
-
- * OOP
-
- * Numpy arrays
-
- * IPython notebook
-
-### Intro to PyMKS and machine learning (1 hour, David)
-
- * Intro to Scikit-learn
-
-  * api, (fit, predict, transform)
-
-  * [PCA Example](http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html)
-
-  * [Linear Regression Example](http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html)
+  * IPython notebook
 
  * PyMKS
 
@@ -77,40 +58,26 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
 
   * data generation tools
 
-### Homogenization Linkages using PyMKS (1 hour, David)
+### Homogenization Linkages using PyMKS (2:30 to 3:30, Ahmet)
 
  * 2-point statistics
 
- * PyMKS 2-point statistics tools
+ * [Checkerboard Example](http://nbviewer.ipython.org/github/materialsinnovation/pymks/blob/develop/notebooks/checker_board.ipynb)
 
  * Dimensionality reduction of 2-point statistics
 
+ * Microstructure classification example
+
  * Low dimensional structure property linkages
 
- * Step though PCA and regression linkage example
+ * Step through [2D Stress Example](http://nbviewer.ipython.org/github/materialsinnovation/pymks/blob/develop/notebooks/stress_homogenization_2D.ipynb)
 
- * Dimensionality reduction and linkage options for Scikit-learn
+ * Add new example
 
-### Localization Linkages using PyMKS (1 hour, Daniel)
+### Localization Linkages using PyMKS (3:30 to 4:30, Yuksel)
 
- * Step through elastic MKS
-
- * Overview of the Cahn-Hilliard example just to show basis functions
+ * Step through [2D Elastic MKS Example](http://materialsinnovation.github.io/pymks/rst/elasticity_2D.html)
 
  * Go back to elastic model show scaling
 
- * Optimizing the model -- validation -- parameter optimization.
-
- * How does the code work? Demonstrate aspects of the code.
-
-### Putting it all together if there is time (1 hour, Daniel and David)
-
- * Just show some cool stuff
-
- * An example that uses both MKS and statistics.
-
- * Optimizing performance in Python.
-
- * An example on the web that uses PyMKS in real time using Javascript.
-
-
+ * Add new example
