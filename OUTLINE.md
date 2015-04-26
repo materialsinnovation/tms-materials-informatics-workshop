@@ -15,20 +15,13 @@ http://materialsinnovation.github.io/pymks/EXAMPLES.html
 
 ### Introduction to Materials Informatics (1:00 to 1:30, Surya)
 
- * should cover the entire domain
+ * Code of conduct (be friendly, very important to create good atmosphere)
+ 
+ * What is MKS?
 
- * should motivate everything from the mathematics, to the web etc.
-
- * slide on code of conduct (be friendly, very important to create good atmosphere)
-
- * introduce David, Yuksel, and Ahmet
-
- * what is MKS?
+ * Introduce David, Yuksel, and Ahmet
 
 ### Introduction to Python and PyMKS (1:30 to 2:30 hour, David)
-
-Some of this stuff might seem a little basic, but TMS is not going to
-be full of hacker types. I'll steal some of this from Software Carpentry.
 
  * Demo the web interface (Wakari or whatever we use)
 
@@ -46,17 +39,13 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
 
  * PyMKS
 
-  * General overview
+  * General overview - What problems can PyMKS solve?
 
-  * Step through a simple example (statistics or MKS, very high level)
-
-  * high level overview of PyMKS -- what problem does it solve?
-
-   * structure of objects
+   * Structure of objects
 
   * Microstructure generation tools
 
-  * data generation tools
+  * Data generation tools
 
 ### Homogenization Linkages using PyMKS (2:30 to 3:30, Ahmet)
 
@@ -72,10 +61,8 @@ be full of hacker types. I'll steal some of this from Software Carpentry.
 
  * Step through [2D Stress Example](http://nbviewer.ipython.org/github/materialsinnovation/pymks/blob/develop/notebooks/stress_homogenization_2D.ipynb)
 
- * Add new example
-
 ### Localization Linkages using PyMKS (3:30 to 4:30, Yuksel)
 
  * Step through [2D Elastic MKS Example](http://materialsinnovation.github.io/pymks/rst/elasticity_2D.html)
 
- * Add new example
+ * Single Phase Polycrystal Example
