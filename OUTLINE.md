@@ -59,6 +59,10 @@ https://github.com/davidbrough1/pymks_overview
 
 ### Intro to Localization(3:15 to 3:30, Surya)
 
+ * Calibration
+
+ * Influence Coefficients
+
 ### Localization Linkages using PyMKS (3:30 to 4:00, David)
 
  * Step through [2D Elastic MKS Example](http://materialsinnovation.github.io/pymks/rst/elasticity_2D.html)
