@@ -30,8 +30,23 @@ https://github.com/davidbrough1/pymks_overview
 
 ### Break (1:30 to 1:45)
 
-### Introduction to Python and PyMKS (1:45 to 2:15, David)
+### Intro to 2-Point Statistics, Homogenization and Localization (1:45 to 2:15, Surya)
 
+ * Homogenization
+ 
+  * 2-point statistics
+
+  * Dimensionality reduction of 2-point statistics
+
+  * Low dimensional structure property linkages
+ 
+ * Localization 
+
+  * Calibration
+
+  * Influence Coefficients
+
+### Introduction to Python and PyMKS (2:15 to 2:45, David)
 
  * Python
 
@@ -41,27 +56,13 @@ https://github.com/davidbrough1/pymks_overview
 
   * PyMKS power point
 
-### Intro to 2-Point Statistics and Homogenization (2:15 to 2:30, Surya)
-
- * 2-point statistics
-
-  * Dimensionality reduction of 2-point statistics
-
-  * Low dimensional structure property linkages
-
-### Homogenization Linkages using PyMKS (2:30 to 3:00, Ahmet)
+### Homogenization Linkages using PyMKS (2:45 to 3:15, Ahmet)
 
  * [Checkerboard Example](http://nbviewer.ipython.org/github/materialsinnovation/pymks/blob/develop/notebooks/checker_board.ipynb)
 
  * Step through [2D Stress Example](http://nbviewer.ipython.org/github/materialsinnovation/pymks/blob/develop/notebooks/stress_homogenization_2D.ipynb)
 
-### Break 3:00 to 3:15
-
-### Intro to Localization(3:15 to 3:30, Surya)
-
- * Calibration
-
- * Influence Coefficients
+### Break 3:15 to 3:30
 
 ### Localization Linkages using PyMKS (3:30 to 4:00, David)
 
