@@ -2,67 +2,66 @@
 
 ## Materials
 
-The IPython notebook will be used for all the examples (unless Matlab
-is required). Either way, we will try to have everything up on the web
-ready to go. If people want to set up the environment on their own
-laptops they can.
+The examples will come from a tailored set of PyMKS examples.
 
-Many of our examples will come from the basic set of MKS examples.
-
-http://materialsinnovation.github.io/pymks/EXAMPLES.html
+https://github.com/davidbrough1/pymks_overview
 
 ## Outline
 
-### Introduction to Materials Informatics (1:00 to 1:30, Surya)
+### Introduction to Materials Informatics (1:00 to 1:15, Surya)
 
- * Code of conduct (be friendly, very important to create good atmosphere)
- 
- * What is MKS?
+ * check everyone has software properly installed
 
- * Introduce David, Yuksel, and Ahmet
+ * should motivate everything from the mathematics, to the web etc.
 
-### Introduction to Python and PyMKS (1:30 to 2:30 hour, David)
+ * slide on code of conduct (be friendly, very important to create good atmosphere)
 
- * Demo the web interface (Wakari or whatever we use)
+ * introduce David and Ahmet
 
-  * Make sure everyone can log in
+ * what is MATIN?
+
+### Introduction to Project Pages (1:15 to 1:45, Ahmet)
+
+ * MATIN overview
+
+ * Project Pages Demo
+
+### Intro to 2-Point Statistics, Homogenization and Localization (1:45 to 2:15, Surya)
+
+ * Homogenization
+
+  * 2-point statistics
+
+  * Dimensionality reduction of 2-point statistics
+
+  * Low dimensional structure property linkages
+
+ * Localization
+
+  * Calibration
+
+  * Influence Coefficients
+
+### Introduction to Python and PyMKS (2:15 to 2:45, David)
 
  * Python
 
-  * Why Python
-
-  * Opensource -- explain the license
-
-  * Python data structures
-
-  * IPython notebook
+  * Step through python_intro
 
  * PyMKS
 
-  * General overview - What problems can PyMKS solve?
+  * PyMKS power point
 
-   * Structure of objects
+### Break 2:45 to 3:00
 
-  * Microstructure generation tools
-
-  * Data generation tools
-
-### Homogenization Linkages using PyMKS (2:30 to 3:30, Ahmet)
-
- * 2-point statistics
+### Homogenization Linkages using PyMKS (3:00 to 3:45, Ahmet)
 
  * [Checkerboard Example](http://nbviewer.ipython.org/github/materialsinnovation/pymks/blob/develop/notebooks/checker_board.ipynb)
 
- * Dimensionality reduction of 2-point statistics
-
- * Microstructure classification example
-
- * Low dimensional structure property linkages
-
  * Step through [2D Stress Example](http://nbviewer.ipython.org/github/materialsinnovation/pymks/blob/develop/notebooks/stress_homogenization_2D.ipynb)
 
-### Localization Linkages using PyMKS (3:30 to 4:30, Yuksel)
+### Localization Linkages using PyMKS (3:45 to 4:30, David)
 
  * Step through [2D Elastic MKS Example](http://materialsinnovation.github.io/pymks/rst/elasticity_2D.html)
 
- * Single Phase Polycrystal Example
+ * Step through [Cahn-Hilliard Example](http://materialsinnovation.github.io/pymks/rst/cahn_hilliard.html)
