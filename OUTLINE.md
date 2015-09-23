@@ -10,17 +10,9 @@ https://github.com/davidbrough1/pymks_overview
 
 ### Introduction to Materials Informatics (1:00 to 1:15, Surya)
 
- * check everyone has software properly installed
+ * Data Sciences and Cyberinfrastrcuture in Materials Development
 
- * should motivate everything from the mathematics, to the web etc.
-
- * slide on code of conduct (be friendly, very important to create good atmosphere)
-
- * introduce David and Ahmet
-
- * what is MATIN?
-
-### Introduction to Project Pages (1:15 to 1:45, Ahmet)
+### Introduction to MATIN (1:15 to 1:45, Ahmet)
 
  * MATIN overview
 
@@ -44,24 +36,20 @@ https://github.com/davidbrough1/pymks_overview
 
 ### Introduction to Python and PyMKS (2:15 to 2:45, David)
 
- * Python
+ * Intro to Python
 
-  * Step through python_intro
-
- * PyMKS
-
-  * PyMKS power point
+ * Intro to PyMKS
 
 ### Break 2:45 to 3:00
 
 ### Homogenization Linkages using PyMKS (3:00 to 3:45, Ahmet)
 
- * [Checkerboard Example](http://nbviewer.ipython.org/github/materialsinnovation/pymks/blob/develop/notebooks/checker_board.ipynb)
+ * 2-Point Statistics
 
- * Step through [2D Stress Example](http://nbviewer.ipython.org/github/materialsinnovation/pymks/blob/develop/notebooks/stress_homogenization_2D.ipynb)
+ * Homogenization for Finite Element Models
 
 ### Localization Linkages using PyMKS (3:45 to 4:30, David)
 
- * Step through [2D Elastic MKS Example](http://materialsinnovation.github.io/pymks/rst/elasticity_2D.html)
+ * Localization for Finite Element Models
 
- * Step through [Cahn-Hilliard Example](http://materialsinnovation.github.io/pymks/rst/cahn_hilliard.html)
+ * Localization for Phase Field Models
